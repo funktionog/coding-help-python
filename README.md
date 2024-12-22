@@ -1,5 +1,4 @@
 # coding-help-python
-**White Paper: Python Basics**
 
 ---
 
